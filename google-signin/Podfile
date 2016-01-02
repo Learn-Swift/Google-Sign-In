@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'google-signin' do
+	pod 'Google/SignIn'
+end
+
+target 'google-signinTests' do
+
+end
+
